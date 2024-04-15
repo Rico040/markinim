@@ -10,3 +10,6 @@ backup/*
 
 tools/backup_script.sh
 tools/backup.sh
+
+.vs/
+markinim.exe
